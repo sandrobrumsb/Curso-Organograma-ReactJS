@@ -26,7 +26,10 @@ const Rodape = () => {
         <img src="/imagens/logo.png" alt="" />
       </section>
       <section>
-        <p>Desenvolvido por Alura.</p>
+        <p>
+          Desenvolvido por Sandrosb atraves do curso Alura - React:
+          desenvolvendo com JavaScript .
+        </p>
       </section>
     </footer>
   );
