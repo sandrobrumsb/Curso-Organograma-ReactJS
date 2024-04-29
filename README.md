@@ -2,7 +2,7 @@
 ## Este projeto simula um sistema de cadastro para uma equipe de desenvolvimento e o agrupa de acordo com o time que o a pessoa pertence e seprarando atraves de cards.
 ### Para vizualizar o projeto acesse o link: https://curso-organograma-react-js.vercel.app/
 
-### aprendizados ultilizados nesse projeto:
+### Aprendizados adquiridos nesse projeto:
 - Criação de componentes funcionais.
 - Como passar props para um componente.
 - Renderização de listas com o .map.
